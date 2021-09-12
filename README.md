@@ -3,23 +3,11 @@
 🌱 I’m currently learning "React, Interactive Web"
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intersoom&show_icons=true&theme=tokyonight)  
 
-<div align=center>
-  
-
-  
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intersoom&show_icons=true&theme=tokyonight)  
-    
-
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-  
-</div>	
 
 
 <div align=center>
