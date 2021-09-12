@@ -1,6 +1,6 @@
-##Hello Welcom to my Github 🙌🏻
+## Hello Welcom to my Github 🙌🏻
 
-### 🌱 I’m currently learning "React, Interactive Web"
+🌱 I’m currently learning "React, Interactive Web"
 
 <div align=center>
   
