@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intersoom&show_icons=true&theme=tokyonight)
 </div>	
 
-🌱 I’m currently learning "React, Interactive Web"
+- 🌱 I’m currently learning "React, Interactive Web"
 
 
 <div align=center>
