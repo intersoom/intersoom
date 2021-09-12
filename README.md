@@ -4,6 +4,7 @@
 <p align=center> 🏫 Soongsil Univ. Global Media <br>
 💻 Studying React & Interactive Web </p>
 
+<br>
 
 <h3 align=center> 🛠 Tech Stacks 🛠 </h3>
 <p align=center>Techs that I've tried</p>
