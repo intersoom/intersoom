@@ -2,8 +2,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intersoom&show_icons=true&theme=tokyonight)
 </div>	
 
-- 🌱 I’m currently learning "React, Interactive Web"
-
 
 <div align=center>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)         
