@@ -1,10 +1,14 @@
 <div align=center>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intersoom&show_icons=true&theme=tokyonight)
+  
 </div>	
 
 
 <div align=center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)         
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+  
 </div>
 
 
