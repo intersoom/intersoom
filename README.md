@@ -24,10 +24,6 @@
 
 <div align=center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intersoom&theme=vue&show_icons=true)](https://github.com/intersoom)
-</div>
-
-<div align=center>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intersoom&theme=vue&show_icons=true&layout=compact)](https://github.com/intersoom)
 
 </div>
