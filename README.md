@@ -1,9 +1,39 @@
 ## Hello Welcome to my Github 🙌🏻
 
-🌱 I’m currently learning "React, Interactive Web"
- 
+<h3 align=center> 🤍 About Me 🤍 </h3>
+<p align=center> 🏫 Soongsil Univ. Global Media <br>
+💻 Studying React & Interactive Web </p>
+
+
+<h3 align=center> 🛠 Tech Stacks 🛠 </h3>
+<p align=center>Techs that I've tried</p>
+
+<div align=center>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+</div>
+
+<div align=center>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
+</div>
+
+<br>
+
+<div align=center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intersoom&show_icons=true&theme=tokyonight)  
+
+</div>
+
+<div align=center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+
 
 
 
