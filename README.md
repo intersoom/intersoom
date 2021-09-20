@@ -3,7 +3,7 @@
 <h3 align=center> 🤍 About Me 🤍 </h3>
 <p align=center> 🏫 Soongsil Univ. Global Media <br>
 💻 Studying React & Interactive Web <br> 
-<a href="https://github.com/gracurri"> 🍞 frontend-developer of Graccuri </a>
+<a href="https://github.com/gracurri"> 🍞 Frontend-developer of GRACCURI </a>
 </p>
 
 
