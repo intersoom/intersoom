@@ -1,6 +1,8 @@
 ## Welcome to my Github 🙌🏻
 
-<h3 align=center> 🤍 About Me 🤍 </h3>
+
+
+<h3 align=center> 🤍 About SUM 🤍 </h3>
 <p align=center> 🏫 Soongsil Univ. Global Media <br>
 💻 Studying React & Interactive Web <br> 
 <a href="https://github.com/gracurri"> 🍞 Frontend-developer of GRACCURI </a>
