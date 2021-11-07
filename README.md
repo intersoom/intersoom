@@ -5,7 +5,7 @@
 <h3 align=center> 🤍 About SUM 🤍 </h3>
 <p align=center> 🏫 Soongsil Univ. Global Media <br>
 💻 Studying React & Interactive Web <br> 
-<p align=center> 🖥 FE Developer of YOURSSU <br>
+🖥 FE Developer of YOURSSU <br>
 <a href="https://github.com/gracurri"> 🍞 Frontend-developer of GRACCURI </a> <br>
 
 </p>
