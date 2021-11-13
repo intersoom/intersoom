@@ -2,7 +2,7 @@
 
 
 
-<h3 align=center> 🤍 About SUM 🤍 </h3>
+<h3 align=center> 🤍 About ME 🤍 </h3>
 <p align=center> 🏫 Soongsil Univ. Global Media <br>
 💻 Studying React & Interactive Web <br> 
 🖥 FE Developer of YOURSSU <br>
