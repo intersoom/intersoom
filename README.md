@@ -7,7 +7,7 @@
 💻 Studying React & Interactive Web <br> 
 🖥 FE Developer of YOURSSU <br>
 <a href="https://github.com/gracurri"> 🍞 Frontend-developer of GRACCURI </a> <br>
-<a href="https://github.com/gracurri"> ⌨️ FE Developer of Amugeona Team </a> <br>
+<a href="https://github.com/gracurri"> ⌨️ FE Developer of MAT Team </a> <br>
    
 </p>
 
