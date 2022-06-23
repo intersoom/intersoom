@@ -5,9 +5,9 @@
 <h3 align=center> 🤍 About ME 🤍 </h3>
 <p align=center> 🏫 Soongsil Univ. Global Media <br>
 💻 Studying React & Interactive Web <br> 
-🖥 FE Developer of YOURSSU <br>
+<a href="https://github.com/yourssu"> 🖥 FE Developer of YOURSSU </a> <br>
 <a href="https://github.com/gracurri"> 🍞 Frontend-developer of GRACCURI </a> <br>
-<a href="https://github.com/gracurri"> ⌨️ FE Developer of MAT Team </a> <br>
+<a href="https://github.com/TEAM-MAT"> ⌨️ FE Developer of MAT Team </a> <br>
    
 </p>
 
