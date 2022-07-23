@@ -27,7 +27,7 @@
 <div align=center>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/></a>
+<img src="https://shields.io/badge/Django-092E20?logo=Django&logoColor=FFF&style=flat-square"/></a>
 </div>
 
 <div align=center>
