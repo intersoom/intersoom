@@ -37,6 +37,13 @@
 
 <br>
 
+<p align=center>Now I'm Studying</p>
+<div align=center>
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=WebGL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/></a>
+</div>
+<br>
+
 <p align=center>Design tools that I can handle</p>
 <div align=center>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
