@@ -51,6 +51,7 @@
 <br>
 <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma%20Pro&logoColor=white"/></a>
 </div>
 <br>
 
