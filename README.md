@@ -10,10 +10,6 @@
 <a href="https://github.com/TEAM-MAT"> ⌨️ FE Developer of MAT Team </a> <br>
 <a href="https://github.com/Feelim"> 📸 FE Developer of Feelim </a> <br>
 
-   
-</p>
-
-
 <br>
 
 <h3 align=center> 🛠 Tech Stacks 🛠 </h3>
