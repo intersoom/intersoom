@@ -4,7 +4,6 @@
 
 <h3 align=center> Soomin Lee </h3>
 <p align=center> 🏫 Soongsil Univ. Global Media <br>
-💻 가독성이 좋고 재사용성이 높은 코드를 지향합니다 <br> 
 
 <h3 align=center> 🛠 Tech Stacks 🛠 </h3>
 <p align=center>Techs that I've tried</p>
