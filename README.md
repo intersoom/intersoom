@@ -2,13 +2,9 @@
 
 
 
-<h3 align=center> 🤍 About ME 🤍 </h3>
+<h3 align=center> Soomin Lee </h3>
 <p align=center> 🏫 Soongsil Univ. Global Media <br>
-💻 Studying React & Interactive Web <br> 
-<a href="https://github.com/yourssu"> 🖥 FE Developer of YOURSSU </a> <br>
-<a href="https://github.com/gracurri"> 🍞 FE Developer of GRACCURI </a> <br>
-<a href="https://github.com/TEAM-MAT"> ⌨️ FE Developer of MAT Team </a> <br>
-<a href="https://github.com/Feelim"> 📸 FE Developer of Feelim </a> <br>
+💻 가독성이 좋고 재사용성이 높은 코드를 지향합니다 <br> 
 
 <h3 align=center> 🛠 Tech Stacks 🛠 </h3>
 <p align=center>Techs that I've tried</p>
