@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
-<img src="https://shields.io/badge/Django-092E20?logo=Django&logoColor=FFF&style=flat-square"/>
 </div>
 
 <div align=center>
